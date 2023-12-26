@@ -4,9 +4,12 @@ PDF to Base64 Converter (BYTE ARRAY)
 This Python script facilitates the conversion of PDF files to Base64 encoding.
 It can be particularly useful in scenarios where you need to work with PDF data in a format that is easily shareable and embeddable, like JSON.
 
-Prerequisites
+Prerequisites:
+
 Python 3.x
+
 pandas
+
 tkinter (included in Python 3)
 
 Usage:
